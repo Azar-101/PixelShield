@@ -10,7 +10,7 @@ This Python tool allows you to encrypt and decrypt images using a simple mathema
 You can install the required libraries using:
 ```bash
 pip install pillow numpy
-
+```
 
 ## Usage
 
@@ -22,7 +22,8 @@ Run the script and select the desired option from the menu:
 ## Example
 ```bash
 $ python image_encryption_tool.py
-Image Encryption and Decryption Tool
+```
+##Image Encryption and Decryption Tool
 1. Encrypt Image
 2. Decrypt Image
 3. Exit
